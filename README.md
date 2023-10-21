@@ -10,4 +10,4 @@
 - **Run Docker container**
 
   ```bash
-  docker run -p 5000:5000 multi-stage-app
+  docker run -p 5001:5001 multi-stage-app
